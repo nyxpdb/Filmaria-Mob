@@ -9,3 +9,5 @@ Este projeto tem como objetivo explorar conceitos de requisições HTTP, exibiç
 ```bash
 npx create-expo-app filmaria-mob --template blank
 cd filmaria-mob
+npm i axios
+npm i expo-cli
